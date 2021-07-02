@@ -28,6 +28,7 @@ brew install "phpmd"
 brew install "phpstan"
 brew install "phpunit"
 brew install "composer"
+brew install "phive"
 
 pecl install xdebug
 
