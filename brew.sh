@@ -28,48 +28,49 @@ brew install "phpmd"
 brew install "phpstan"
 brew install "phpunit"
 brew install "composer"
-brew install "phive"
 
 pecl install xdebug
 
 # browsers
-brew cask install "google-chrome"
-brew cask install "firefox"
+brew install "google-chrome"
+brew install "firefox"
 
 # editors
 brew install "vim"
 brew insatll "atom"
-brew cask install "visual-studio-code"
-brew cask install "phpstorm"
-brew cask install "android-studio"
-brew cask install "android-platform-tools"
-brew cask install "drawio"
-brew cask install "jetbrains-toolbox"
+brew install "gh"
+brew install --cask "visual-studio-code"
+brew install --cask "phpstorm"
+brew install --cask "android-studio"
+brew install --cask "android-platform-tools"
+brew install --cask "drawio"
+brew install --cask "jetbrains-toolbox"
 
 # fonts
 brew install "ricty"
-brew cask install "font-ricty-diminished"
+brew install --cask "font-ricty-diminished"
 
 # chat apps
-brew cask install "slack"
-brew cask install "discord"
-brew cask install "microsoft-teams"
-brew cask install "zoomus"
+brew install --cask "slack"
+brew install --cask "discord"
+brew install --cask "microsoft-teams"
+brew install --cask "zoomus"
 
 # containers
-brew cask install "docker"
-brew cask insatll "virtualbox"
-brew cask insatll "vagrant"
-brew cask insatll "vagrant-manager"
+brew install --cask "docker"
+brew insatll --cask "virtualbox"
+brew insatll --cask "vagrant"
+brew insatll --cask "vagrant-manager"
 
 # dev apps
-brew cask install "github"
-brew cask insaall "postman"
-brew cask install "sequel-ace"
+brew install --cask "github"
+brew insaall --cask "postman"
+brew install --cask "sequel-ace"
 
 # storage
-brew cask install "onedrive"
-brew cask install "dropbox"
+brew install --cask "onedrive"
+brew install --cask "dropbox"
+brew install --cask "google-backup-and-sync"
 
 # utilities
-brew cask install "the-unarchiver"
+brew install --cask "the-unarchiver"
