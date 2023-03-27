@@ -46,12 +46,12 @@ brew install "firefox"
 brew install "vim"
 brew insatll "atom"
 brew install "gh"
-brew install --cask "visual-studio-code"
+# brew install --cask "visual-studio-code"
 brew install --cask "phpstorm"
-brew install --cask "android-studio"
-brew install --cask "android-platform-tools"
+# brew install --cask "android-studio"
+# brew install --cask "android-platform-tools"
 brew install --cask "drawio"
-brew install --cask "jetbrains-toolbox"
+# brew install --cask "jetbrains-toolbox"
 
 # fonts
 brew install "ricty"
@@ -59,15 +59,15 @@ brew install --cask "font-ricty-diminished"
 
 # chat apps
 brew install --cask "slack"
-brew install --cask "discord"
-brew install --cask "microsoft-teams"
-brew install --cask "zoomus"
+# brew install --cask "discord"
+# brew install --cask "microsoft-teams"
+# brew install --cask "zoomus"
 
 # containers
 brew install --cask "docker"
-brew insatll --cask "virtualbox"
-brew insatll --cask "vagrant"
-brew insatll --cask "vagrant-manager"
+# brew insatll --cask "virtualbox"
+# brew insatll --cask "vagrant"
+# brew insatll --cask "vagrant-manager"
 
 # dev apps
 brew install --cask "github"
@@ -75,9 +75,9 @@ brew insaall --cask "postman"
 brew install --cask "sequel-ace"
 
 # storage
-brew install --cask "onedrive"
-brew install --cask "dropbox"
-brew install --cask "google-backup-and-sync"
+# brew install --cask "onedrive"
+# brew install --cask "dropbox"
+# brew install --cask "google-backup-and-sync"
 
 # utilities
 brew install --cask "the-unarchiver"
