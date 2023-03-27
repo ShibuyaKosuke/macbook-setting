@@ -21,6 +21,10 @@ brew install "node"
 brew install "php"
 brew install "php@7.2"
 brew install "php@7.3"
+brew install "php@7.4"
+brew install "php@8.0"
+brew install "php@8.1"
+brew install "php@8.2"
 brew install "brew-php-switcher"
 brew install "php-code-sniffer"
 brew install "php-cs-fixer"
@@ -28,6 +32,9 @@ brew install "phpmd"
 brew install "phpstan"
 brew install "phpunit"
 brew install "composer"
+
+# 使用するPHPのバージョンを指定する
+brew-php-switcher 8.1
 
 pecl install xdebug
 
