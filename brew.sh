@@ -25,6 +25,7 @@ brew install "php@7.4"
 brew install "php@8.0"
 brew install "php@8.1"
 brew install "php@8.2"
+brew install "php@8.3"
 brew install "brew-php-switcher"
 brew install "php-code-sniffer"
 brew install "php-cs-fixer"
@@ -34,7 +35,7 @@ brew install "phpunit"
 brew install "composer"
 
 # 使用するPHPのバージョンを指定する
-brew-php-switcher 8.1
+brew-php-switcher 8.3
 
 pecl install xdebug
 
