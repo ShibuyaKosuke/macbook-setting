@@ -72,7 +72,7 @@ brew install --cask "docker"
 
 # dev apps
 brew install --cask "github"
-brew insaall --cask "postman"
+brew install --cask "postman"
 brew install --cask "sequel-ace"
 
 # storage
