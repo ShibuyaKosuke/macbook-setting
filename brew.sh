@@ -20,7 +20,7 @@ brew install "node"
 # PHP
 
 # 配布されていないPHPのバージョンをインストールしたい時有効にする
-# brew tap exolnet/homebrew-deprecated
+# brew tap shivammathur/php
 
 brew install "php"
 brew install "php@7.2"
