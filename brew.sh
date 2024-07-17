@@ -18,6 +18,10 @@ brew install "nkf"
 brew install "node"
 
 # PHP
+
+# 配布されていないPHPのバージョンをインストールしたい時有効にする
+# brew tap exolnet/homebrew-deprecated
+
 brew install "php"
 brew install "php@7.2"
 brew install "php@7.3"
